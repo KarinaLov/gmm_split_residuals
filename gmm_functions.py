@@ -1477,7 +1477,7 @@ if __name__ == "__main__":
         data_file = f'ESM_flatfile_2018/ESM_flatfile_{domain}.csv'
     else:
         #data_file = f'{network}_flatfile_{domain}.csv'
-        data_file = '/home/karinlo/GFZ/2026-003_Loviknes/2026-003_Loviknes-et-al_1997_2025_kik_SA.csv'
+        data_file = '/2026-003_Loviknes/2026-003_Loviknes-et-al_1997_2025_kik_SA.csv'
     
     if not os.path.exists(data_file):
         print(f"ERROR: Data file {data_file} not found!")
