@@ -1,0 +1,11 @@
+*.jpeg
+*.png
+*.csv
+.vscode/*
+ESM_flatfile_2018/*
+__pycache__/*
+compare_outputs.py
+gmm_functions_dwses_h.R
+README_long.md
+R_requirements.txt
+
